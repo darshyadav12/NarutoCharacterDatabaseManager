@@ -1,5 +1,6 @@
 
 # Naruto Character Database Manager
+https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW52NGM1OWg5cnR6bmU5Y3pmZGtpYmoxa3JscGVpZmpxdHBqd2JhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohc0PsZLDN5Dgcf5e/giphy.gif
 
 A Python + MySQL project for managing a custom database of Naruto characters.
 This project was created as a school SQL project and includes complete CRUD functionality with a simple, menu-driven interface.
